@@ -6,7 +6,7 @@ Olá estudante! Sabemos como encontrar material descente sobre o Portugol Studio
 
 Neste repositório deixo as atividades que fiz no início de meus estudos com algoritmos, espero que faça bom uso!
 
-//Tentei <!--deixar--> o #mais /*comentado*/ possível
+//Tentei <!-- <!--deixar--\>--> o #mais /*comentado*/ possível
 
 Atualizo os algoritmos quando tenho tempo :P
 
